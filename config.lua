@@ -8,7 +8,7 @@ Config.Locale = 'cs'
 
 Config.Zones = {
 	blackmarket = {
-		Items = {},
+		Items = {"hacking_laptop"},
 		Pos = {
 			{x = -114.28,   y = -1579.82,  z = 36.51} -- Add comma at the end if u want to add more locations
 		}
